@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+.env
+.env.*
+.DS_Store
+coverage/
+.vscode/
+.idea/
+*.tgz
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+/.pnp
+.pnp.js
+logs
+*.log
+debug/
+out/
+tmp/
+temp/
+test-results/
+.cache/ 
+# TypeScript
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+tsconfig.json.backup
+tsconfig.*.backup
+lib/
+types/
+*.d.ts
